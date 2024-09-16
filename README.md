@@ -13,7 +13,7 @@
 
 * Proximidade: O site é organizado de uma forma que conseguimos navegar e entender o que cada coisa significa.
 * Alinhamento: O site tem um alinhamento funcional que nos permite navegar e acessar o que mais nos chama atenção.
-* Repetição: No site conseguimos observar padrão de cores, fontes,tamanhos e imagens fazendo com o que o site tenha um bom designer.
+* Repetição: No site conseguimos observar padrão de cores, fontes, tamanhos e imagens fazendo com o que o site tenha um bom designer.
 * Contraste: A escolha de cores foi pensada fazendo com o que todas as cores combinem e tenham uma boa visualização.
 * Harmonia: O site é harmonico em todos os aspectos ocasionando uma boa navegação para o cliente.
 
