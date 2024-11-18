@@ -1,5 +1,5 @@
-# TipografiaeCores
-## site ruim 
+# Tipografia e Cores 🎨✒️
+## Site ruim 👎
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/e7fd4ecd-3d89-40e1-8079-6328312f9b9b">
 
 * Proximidade: O site não é organizado, o que causa confusão e desordem. Dificultando a navegação e a visualização do leitor.
@@ -8,7 +8,7 @@
 * Contraste: O site não possui uma boa escolha de cores fazendo com que ele não consiga exercer seu objetivo final.
 * Harmonia: O site não possui nenhuma harmonia as cores não combinam o layout não é organizado o que contribui para confusão e desorganização.
 
-## site bom
+## Site bom 👍
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/8a74c87b-ce27-484e-a86e-d8be7edf2efe">
 
 * Proximidade: O site é organizado de uma forma que conseguimos navegar e entender o que cada coisa significa.
